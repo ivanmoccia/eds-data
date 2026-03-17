@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.03.2026 - 14:05",
+  "updated_at": "17.03.2026 - 14:28",
   "products": [
     {
       "artno": "611487",
@@ -33,7 +33,7 @@
       "locprice": 1.5,
       "discount_pct": 74.8,
       "location": "Tessili",
-      "category": "Tessili",
+      "category": "Altro",
       "badge": "SUPER OFFERTA",
       "image": "images/80395804.jpg"
     },
@@ -105,7 +105,7 @@
       "locprice": 1.95,
       "discount_pct": 54.1,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "",
       "image": "images/10459818.jpg"
     },
@@ -165,9 +165,21 @@
       "locprice": 3.95,
       "discount_pct": 50.3,
       "location": "Decorazione, candele e piante",
-      "category": "Decorazione",
+      "category": "Altro",
       "badge": "",
       "image": "images/80592116.jpg"
+    },
+    {
+      "artno": "90347723",
+      "name": "FÄRGMÅRA lenz c ang 140x200 bianco",
+      "stock": 1058,
+      "price1": 9.95,
+      "locprice": 4.95,
+      "discount_pct": 50.3,
+      "location": "Biancheria da letto",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/90347723.jpg"
     },
     {
       "artno": "70611511",
@@ -182,18 +194,6 @@
       "image": "images/70611511.jpg"
     },
     {
-      "artno": "90347723",
-      "name": "FÄRGMÅRA lenz c ang 140x200 bianco",
-      "stock": 1058,
-      "price1": 9.95,
-      "locprice": 4.95,
-      "discount_pct": 50.3,
-      "location": "Biancheria da letto",
-      "category": "Camera da letto",
-      "badge": "",
-      "image": "images/90347723.jpg"
-    },
-    {
       "artno": "30537655",
       "name": "FÄLTLÖNN set 3 cas dec legno massiccio/multicolore",
       "stock": 63,
@@ -201,7 +201,7 @@
       "locprice": 4.95,
       "discount_pct": 50.3,
       "location": "Decorazione, candele e piante",
-      "category": "Decorazione",
+      "category": "Altro",
       "badge": "",
       "image": "images/30537655.jpg"
     },
@@ -213,7 +213,7 @@
       "locprice": 9.95,
       "discount_pct": 50.1,
       "location": "Tessili",
-      "category": "Tessili",
+      "category": "Altro",
       "badge": "",
       "image": "images/552096.jpg"
     },
@@ -225,7 +225,7 @@
       "locprice": 199.0,
       "discount_pct": 50.1,
       "location": "Tappeti",
-      "category": "Tappeti",
+      "category": "Altro",
       "badge": "",
       "image": "images/10576351.jpg"
     },
@@ -237,7 +237,7 @@
       "locprice": 9.95,
       "discount_pct": 50.1,
       "location": "Organizzare e contenere",
-      "category": "Organizzazione",
+      "category": "Altro",
       "badge": "ULTIMI PEZZI",
       "image": "images/90099049.jpg"
     },
@@ -273,7 +273,7 @@
       "locprice": 8.95,
       "discount_pct": 47.2,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "",
       "image": "images/80347728.jpg"
     },
@@ -297,7 +297,7 @@
       "locprice": 25.0,
       "discount_pct": 44.4,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "",
       "image": "images/40540756.jpg"
     },
@@ -333,7 +333,7 @@
       "locprice": 3.95,
       "discount_pct": 43.2,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "ULTIMI PEZZI",
       "image": "images/40347730.jpg"
     },
@@ -345,7 +345,7 @@
       "locprice": 3.95,
       "discount_pct": 43.2,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "",
       "image": "images/90571199.jpg"
     },
@@ -369,7 +369,7 @@
       "locprice": 69.0,
       "discount_pct": 42.0,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "ULTIMI PEZZI",
       "image": "images/40321004.jpg"
     },
@@ -381,7 +381,7 @@
       "locprice": 34.95,
       "discount_pct": 41.7,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "",
       "image": "images/90617951.jpg"
     },
@@ -422,18 +422,6 @@
       "image": "images/30608247.jpg"
     },
     {
-      "artno": "70575853",
-      "name": "SNÖDROTTNING fed 50x60 fantasia/a righe",
-      "stock": 38,
-      "price1": 4.95,
-      "locprice": 2.95,
-      "discount_pct": 40.4,
-      "location": "Biancheria da letto",
-      "category": "Camera da letto",
-      "badge": "",
-      "image": "images/70575853.jpg"
-    },
-    {
       "artno": "10555853",
       "name": "FRUKTSKOG candelin pr 3.5 h Vetiv/geran/ne-tu 30pz",
       "stock": 314,
@@ -441,21 +429,21 @@
       "locprice": 2.95,
       "discount_pct": 40.4,
       "location": "Decorazione, candele e piante",
-      "category": "Decorazione",
+      "category": "Altro",
       "badge": "",
       "image": "images/10555853.jpg"
     },
     {
-      "artno": "20593736",
-      "name": "EKOLN secch immond 3 l grigio chiaro-turchese",
-      "stock": 171,
-      "price1": 9.95,
-      "locprice": 5.95,
-      "discount_pct": 40.2,
-      "location": "MH Bagno",
-      "category": "Bagno",
+      "artno": "70575853",
+      "name": "SNÖDROTTNING fed 50x60 fantasia/a righe",
+      "stock": 38,
+      "price1": 4.95,
+      "locprice": 2.95,
+      "discount_pct": 40.4,
+      "location": "Biancheria da letto",
+      "category": "Altro",
       "badge": "",
-      "image": "images/20593736.jpg"
+      "image": "images/70575853.jpg"
     },
     {
       "artno": "70493013",
@@ -470,16 +458,16 @@
       "image": "images/70493013.jpg"
     },
     {
-      "artno": "50440412",
-      "name": "ENHET pen/2ri 60x30x75 bianco",
-      "stock": 16,
-      "price1": 50.0,
-      "locprice": 29.95,
-      "discount_pct": 40.1,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
+      "artno": "20593736",
+      "name": "EKOLN secch immond 3 l grigio chiaro-turchese",
+      "stock": 171,
+      "price1": 9.95,
+      "locprice": 5.95,
+      "discount_pct": 40.2,
+      "location": "MH Bagno",
+      "category": "Bagno",
       "badge": "",
-      "image": "images/50440412.jpg"
+      "image": "images/20593736.jpg"
     },
     {
       "artno": "30482974",
@@ -494,6 +482,30 @@
       "image": "images/30482974.jpg"
     },
     {
+      "artno": "50440412",
+      "name": "ENHET pen/2ri 60x30x75 bianco",
+      "stock": 16,
+      "price1": 50.0,
+      "locprice": 29.95,
+      "discount_pct": 40.1,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/50440412.jpg"
+    },
+    {
+      "artno": "30584623",
+      "name": "KLIPPOXEL plaid 130x170 blu",
+      "stock": 6,
+      "price1": 24.95,
+      "locprice": 14.95,
+      "discount_pct": 40.1,
+      "location": "Tessili",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/30584623.jpg"
+    },
+    {
       "artno": "20592341",
       "name": "ÄLGANÄS appendiab ter 173x33 azzurro",
       "stock": 23,
@@ -501,7 +513,7 @@
       "locprice": 14.95,
       "discount_pct": 40.1,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "",
       "image": "images/20592341.jpg"
     },
@@ -518,18 +530,6 @@
       "image": "images/60611502.jpg"
     },
     {
-      "artno": "30584623",
-      "name": "KLIPPOXEL plaid 130x170 blu",
-      "stock": 6,
-      "price1": 24.95,
-      "locprice": 14.95,
-      "discount_pct": 40.1,
-      "location": "Tessili",
-      "category": "Tessili",
-      "badge": "",
-      "image": "images/30584623.jpg"
-    },
-    {
       "artno": "90517782",
       "name": "SKUGGNÄVA cusc 40x58 bianco/grigio",
       "stock": 39,
@@ -537,7 +537,7 @@
       "locprice": 14.95,
       "discount_pct": 40.1,
       "location": "Tessili",
-      "category": "Tessili",
+      "category": "Altro",
       "badge": "",
       "image": "images/90517782.jpg"
     },
@@ -549,7 +549,7 @@
       "locprice": 29.95,
       "discount_pct": 40.0,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "",
       "image": "images/40488961.jpg"
     },
@@ -561,9 +561,21 @@
       "locprice": 29.95,
       "discount_pct": 40.0,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "",
       "image": "images/40279731.jpg"
+    },
+    {
+      "artno": "30540747",
+      "name": "BESTÅ N p cop 120x40 vetro bianco/verde chiaro",
+      "stock": 42,
+      "price1": 25.0,
+      "locprice": 15.0,
+      "discount_pct": 40.0,
+      "location": "Self Service",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/30540747.jpg"
     },
     {
       "artno": "40177228",
@@ -578,18 +590,6 @@
       "image": "images/40177228.jpg"
     },
     {
-      "artno": "30540747",
-      "name": "BESTÅ N p cop 120x40 vetro bianco/verde chiaro",
-      "stock": 42,
-      "price1": 25.0,
-      "locprice": 15.0,
-      "discount_pct": 40.0,
-      "location": "Self Service",
-      "category": "Self Service",
-      "badge": "",
-      "image": "images/30540747.jpg"
-    },
-    {
       "artno": "10497815",
       "name": "MOSSLANDA mens quad 55 bi pi mor",
       "stock": 18,
@@ -597,7 +597,7 @@
       "locprice": 3.95,
       "discount_pct": 39.2,
       "location": "Decorazione, candele e piante",
-      "category": "Decorazione",
+      "category": "Altro",
       "badge": "",
       "image": "images/10497815.jpg"
     },
@@ -609,7 +609,7 @@
       "locprice": 79.0,
       "discount_pct": 38.8,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "",
       "image": "images/355454.jpg"
     },
@@ -633,7 +633,7 @@
       "locprice": 49.0,
       "discount_pct": 38.0,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "",
       "image": "images/30339392.jpg"
     },
@@ -705,7 +705,7 @@
       "locprice": 24.95,
       "discount_pct": 37.5,
       "location": "Illuminazione e Smart Home",
-      "category": "Illuminazione",
+      "category": "Altro",
       "badge": "",
       "image": "images/80473401.jpg"
     },
@@ -734,18 +734,6 @@
       "image": "images/40609492.jpg"
     },
     {
-      "artno": "60363842",
-      "name": "DRÖMMANDE mat mol ins lett 70x140x11",
-      "stock": 26,
-      "price1": 199.0,
-      "locprice": 129.0,
-      "discount_pct": 35.2,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/60363842.jpg"
-    },
-    {
       "artno": "10311308",
       "name": "KOPPANG casset 6 172x44x83 bianco",
       "stock": 16,
@@ -758,6 +746,18 @@
       "image": "images/10311308.jpg"
     },
     {
+      "artno": "60363842",
+      "name": "DRÖMMANDE mat mol ins lett 70x140x11",
+      "stock": 26,
+      "price1": 199.0,
+      "locprice": 129.0,
+      "discount_pct": 35.2,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/60363842.jpg"
+    },
+    {
       "artno": "60572063",
       "name": "JÄTTEBJÖRN scat/cop 81x45x44 bianco/grigio",
       "stock": 189,
@@ -765,7 +765,7 @@
       "locprice": 12.95,
       "discount_pct": 35.1,
       "location": "IKEA dei Piccoli",
-      "category": "IKEA dei piccoli",
+      "category": "Altro",
       "badge": "",
       "image": "images/60572063.jpg"
     },
@@ -789,7 +789,7 @@
       "locprice": 59.0,
       "discount_pct": 34.4,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "ULTIMI PEZZI",
       "image": "images/20355453.jpg"
     },
@@ -801,7 +801,7 @@
       "locprice": 4.95,
       "discount_pct": 34.0,
       "location": "Decorazione, candele e piante",
-      "category": "Decorazione",
+      "category": "Altro",
       "badge": "",
       "image": "images/70598265.jpg"
     },
@@ -813,7 +813,7 @@
       "locprice": 1.95,
       "discount_pct": 33.9,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "",
       "image": "images/80347747.jpg"
     },
@@ -878,18 +878,6 @@
       "image": "images/50487824.jpg"
     },
     {
-      "artno": "90551634",
-      "name": "AFTONSPARV peluche astronave/fantasia",
-      "stock": 11,
-      "price1": 14.95,
-      "locprice": 9.95,
-      "discount_pct": 33.4,
-      "location": "IKEA dei Piccoli",
-      "category": "IKEA dei piccoli",
-      "badge": "",
-      "image": "images/90551634.jpg"
-    },
-    {
       "artno": "40482450",
       "name": "DVALA lenz c ang 160x200 grigio chiaro",
       "stock": 55,
@@ -897,33 +885,21 @@
       "locprice": 9.95,
       "discount_pct": 33.4,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "",
       "image": "images/40482450.jpg"
     },
     {
-      "artno": "10435224",
-      "name": "STYRBAR N2 telecom smart inox",
-      "stock": 47,
+      "artno": "90551634",
+      "name": "AFTONSPARV peluche astronave/fantasia",
+      "stock": 11,
       "price1": 14.95,
       "locprice": 9.95,
       "discount_pct": 33.4,
-      "location": "Illuminazione e Smart Home",
-      "category": "Illuminazione",
+      "location": "IKEA dei Piccoli",
+      "category": "Altro",
       "badge": "",
-      "image": "images/10435224.jpg"
-    },
-    {
-      "artno": "10386539",
-      "name": "MELODI N lamp sosp 38 bianco",
-      "stock": 17,
-      "price1": 14.95,
-      "locprice": 9.95,
-      "discount_pct": 33.4,
-      "location": "Illuminazione e Smart Home",
-      "category": "Illuminazione",
-      "badge": "",
-      "image": "images/10386539.jpg"
+      "image": "images/90551634.jpg"
     },
     {
       "artno": "10453086",
@@ -938,6 +914,30 @@
       "image": "images/10453086.jpg"
     },
     {
+      "artno": "10435224",
+      "name": "STYRBAR N2 telecom smart inox",
+      "stock": 47,
+      "price1": 14.95,
+      "locprice": 9.95,
+      "discount_pct": 33.4,
+      "location": "Illuminazione e Smart Home",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/10435224.jpg"
+    },
+    {
+      "artno": "10386539",
+      "name": "MELODI N lamp sosp 38 bianco",
+      "stock": 17,
+      "price1": 14.95,
+      "locprice": 9.95,
+      "discount_pct": 33.4,
+      "location": "Illuminazione e Smart Home",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/10386539.jpg"
+    },
+    {
       "artno": "80541481",
       "name": "VÄGNÄT tap pi 170x240 bi sp gr/fatto a mano",
       "stock": 16,
@@ -945,21 +945,9 @@
       "locprice": 199.0,
       "discount_pct": 33.4,
       "location": "Tappeti",
-      "category": "Tappeti",
+      "category": "Altro",
       "badge": "",
       "image": "images/80541481.jpg"
-    },
-    {
-      "artno": "30512235",
-      "name": "LINANÄS div 3 con chaise-longue/VISSLE beige",
-      "stock": 1,
-      "price1": 449.0,
-      "locprice": 299.0,
-      "discount_pct": 33.4,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "ULTIMI PEZZI",
-      "image": "images/30512235.jpg"
     },
     {
       "artno": "90512242",
@@ -974,16 +962,16 @@
       "image": "images/90512242.jpg"
     },
     {
-      "artno": "60590745",
-      "name": "BERGVATTNET deviat aut doc",
-      "stock": 58,
-      "price1": 29.95,
-      "locprice": 19.95,
+      "artno": "30512235",
+      "name": "LINANÄS div 3 con chaise-longue/VISSLE beige",
+      "stock": 1,
+      "price1": 449.0,
+      "locprice": 299.0,
       "discount_pct": 33.4,
-      "location": "MH Bagno",
-      "category": "Bagno",
-      "badge": "",
-      "image": "images/60590745.jpg"
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "ULTIMI PEZZI",
+      "image": "images/30512235.jpg"
     },
     {
       "artno": "40489423",
@@ -996,6 +984,18 @@
       "category": "Bagno",
       "badge": "",
       "image": "images/40489423.jpg"
+    },
+    {
+      "artno": "60590745",
+      "name": "BERGVATTNET deviat aut doc",
+      "stock": 58,
+      "price1": 29.95,
+      "locprice": 19.95,
+      "discount_pct": 33.4,
+      "location": "MH Bagno",
+      "category": "Bagno",
+      "badge": "",
+      "image": "images/60590745.jpg"
     },
     {
       "artno": "50527028",
@@ -1017,7 +1017,7 @@
       "locprice": 39.95,
       "discount_pct": 33.4,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "ULTIMI PEZZI",
       "image": "images/50575316.jpg"
     },
@@ -1089,7 +1089,7 @@
       "locprice": 79.95,
       "discount_pct": 32.8,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "ULTIMI PEZZI",
       "image": "images/30500893.jpg"
     },
@@ -1101,7 +1101,7 @@
       "locprice": 24.95,
       "discount_pct": 32.5,
       "location": "IKEA dei Piccoli",
-      "category": "IKEA dei piccoli",
+      "category": "Altro",
       "badge": "",
       "image": "images/290783.jpg"
     },
@@ -1125,7 +1125,7 @@
       "locprice": 69.0,
       "discount_pct": 31.0,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "",
       "image": "images/10385950.jpg"
     },
@@ -1137,7 +1137,7 @@
       "locprice": 8.95,
       "discount_pct": 30.9,
       "location": "IKEA dei Piccoli",
-      "category": "IKEA dei piccoli",
+      "category": "Altro",
       "badge": "",
       "image": "images/40551542.jpg"
     },
@@ -1149,7 +1149,7 @@
       "locprice": 8.95,
       "discount_pct": 30.9,
       "location": "IKEA dei Piccoli",
-      "category": "IKEA dei piccoli",
+      "category": "Altro",
       "badge": "",
       "image": "images/70551531.jpg"
     },
@@ -1161,7 +1161,7 @@
       "locprice": 8.95,
       "discount_pct": 30.9,
       "location": "IKEA dei Piccoli",
-      "category": "IKEA dei piccoli",
+      "category": "Altro",
       "badge": "",
       "image": "images/60551536.jpg"
     },
@@ -1190,18 +1190,6 @@
       "image": "images/50368784.jpg"
     },
     {
-      "artno": "70411871",
-      "name": "MATTRADITION for term IKEA 300 nero CH",
-      "stock": 6,
-      "price1": 429.0,
-      "locprice": 299.0,
-      "discount_pct": 30.3,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/70411871.jpg"
-    },
-    {
       "artno": "10411874",
       "name": "MATTRADITION for term IKEA 300 bianco CH",
       "stock": 3,
@@ -1214,16 +1202,16 @@
       "image": "images/10411874.jpg"
     },
     {
-      "artno": "20538226",
-      "name": "ÄLVGRÄSMAL cuscino sedia 32.6/31.3x33x3 rosso",
-      "stock": 454,
-      "price1": 9.95,
-      "locprice": 6.95,
-      "discount_pct": 30.2,
-      "location": "Tessili",
-      "category": "Tessili",
+      "artno": "70411871",
+      "name": "MATTRADITION for term IKEA 300 nero CH",
+      "stock": 6,
+      "price1": 429.0,
+      "locprice": 299.0,
+      "discount_pct": 30.3,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
       "badge": "",
-      "image": "images/20538226.jpg"
+      "image": "images/70411871.jpg"
     },
     {
       "artno": "90590744",
@@ -1233,9 +1221,21 @@
       "locprice": 6.95,
       "discount_pct": 30.2,
       "location": "Organizzare e contenere",
-      "category": "Organizzazione",
+      "category": "Altro",
       "badge": "",
       "image": "images/90590744.jpg"
+    },
+    {
+      "artno": "20538226",
+      "name": "ÄLVGRÄSMAL cuscino sedia 32.6/31.3x33x3 rosso",
+      "stock": 454,
+      "price1": 9.95,
+      "locprice": 6.95,
+      "discount_pct": 30.2,
+      "location": "Tessili",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/20538226.jpg"
     },
     {
       "artno": "20618124",
@@ -1245,7 +1245,7 @@
       "locprice": 34.95,
       "discount_pct": 30.0,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "",
       "image": "images/20618124.jpg"
     },
@@ -1305,7 +1305,7 @@
       "locprice": 34.95,
       "discount_pct": 28.7,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "",
       "image": "images/90492847.jpg"
     },
@@ -1341,21 +1341,21 @@
       "locprice": 24.95,
       "discount_pct": 28.6,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "",
       "image": "images/90564009.jpg"
     },
     {
-      "artno": "50566449",
-      "name": "TURBOKASTANJ specchio 75x75 rosso",
-      "stock": 18,
+      "artno": "50555097",
+      "name": "TURBOKASTANJ specchio 75x75",
+      "stock": 34,
       "price1": 69.95,
       "locprice": 49.95,
       "discount_pct": 28.6,
       "location": "Rivolgersi al personale",
       "category": "Altro",
       "badge": "",
-      "image": "images/50566449.jpg"
+      "image": "images/50555097.jpg"
     },
     {
       "artno": "20454311",
@@ -1370,16 +1370,16 @@
       "image": "images/20454311.jpg"
     },
     {
-      "artno": "50555097",
-      "name": "TURBOKASTANJ specchio 75x75",
-      "stock": 34,
+      "artno": "50566449",
+      "name": "TURBOKASTANJ specchio 75x75 rosso",
+      "stock": 18,
       "price1": 69.95,
       "locprice": 49.95,
       "discount_pct": 28.6,
       "location": "Rivolgersi al personale",
       "category": "Altro",
       "badge": "",
-      "image": "images/50555097.jpg"
+      "image": "images/50566449.jpg"
     },
     {
       "artno": "80503375",
@@ -1413,7 +1413,7 @@
       "locprice": 12.95,
       "discount_pct": 27.9,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "",
       "image": "images/80482453.jpg"
     },
@@ -1509,7 +1509,7 @@
       "locprice": 149.0,
       "discount_pct": 25.1,
       "location": "Tappeti",
-      "category": "Tappeti",
+      "category": "Altro",
       "badge": "",
       "image": "images/90550823.jpg"
     },
@@ -1521,7 +1521,7 @@
       "locprice": 8.95,
       "discount_pct": 25.1,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "",
       "image": "images/10357216.jpg"
     },
@@ -1545,7 +1545,7 @@
       "locprice": 14.95,
       "discount_pct": 25.1,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "",
       "image": "images/60377976.jpg"
     },
@@ -1562,18 +1562,6 @@
       "image": "images/80486328.jpg"
     },
     {
-      "artno": "40579334",
-      "name": "BREDVECKLARE copr/2f 240x220/50x60 bi bl/a quadri",
-      "stock": 11,
-      "price1": 39.95,
-      "locprice": 29.95,
-      "discount_pct": 25.0,
-      "location": "Biancheria da letto",
-      "category": "Camera da letto",
-      "badge": "",
-      "image": "images/40579334.jpg"
-    },
-    {
       "artno": "30579358",
       "name": "BREDVECKLARE copr/2f 240x220/50x60 bi rosa/quad",
       "stock": 20,
@@ -1581,7 +1569,7 @@
       "locprice": 29.95,
       "discount_pct": 25.0,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "",
       "image": "images/30579358.jpg"
     },
@@ -1593,9 +1581,21 @@
       "locprice": 29.95,
       "discount_pct": 25.0,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "",
       "image": "images/30617949.jpg"
+    },
+    {
+      "artno": "40579334",
+      "name": "BREDVECKLARE copr/2f 240x220/50x60 bi bl/a quadri",
+      "stock": 11,
+      "price1": 39.95,
+      "locprice": 29.95,
+      "discount_pct": 25.0,
+      "location": "Biancheria da letto",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/40579334.jpg"
     },
     {
       "artno": "30367441",
@@ -1622,6 +1622,18 @@
       "image": "images/10452548.jpg"
     },
     {
+      "artno": "40488796",
+      "name": "DELSJÖN miscelat metallo nero spazzolato",
+      "stock": 31,
+      "price1": 79.95,
+      "locprice": 59.95,
+      "discount_pct": 25.0,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/40488796.jpg"
+    },
+    {
       "artno": "60507379",
       "name": "DELSJÖN miscelat effetto peltro CH",
       "stock": 19,
@@ -1644,18 +1656,6 @@
       "category": "Altro",
       "badge": "",
       "image": "images/40562079.jpg"
-    },
-    {
-      "artno": "40488796",
-      "name": "DELSJÖN miscelat metallo nero spazzolato",
-      "stock": 31,
-      "price1": 79.95,
-      "locprice": 59.95,
-      "discount_pct": 25.0,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/40488796.jpg"
     },
     {
       "artno": "40557657",
@@ -1689,7 +1689,7 @@
       "locprice": 69.0,
       "discount_pct": 23.3,
       "location": "Decorazione, candele e piante",
-      "category": "Decorazione",
+      "category": "Altro",
       "badge": "",
       "image": "images/80548185.jpg"
     },
@@ -1701,7 +1701,7 @@
       "locprice": 99.0,
       "discount_pct": 23.3,
       "location": "Tappeti",
-      "category": "Tappeti",
+      "category": "Altro",
       "badge": "",
       "image": "images/10561854.jpg"
     },
@@ -1716,30 +1716,6 @@
       "category": "Altro",
       "badge": "",
       "image": "images/30459134.jpg"
-    },
-    {
-      "artno": "541545",
-      "name": "TRÅDFRI N2 kit base E27 smart reg wl/bi cal WW",
-      "stock": 11,
-      "price1": 12.95,
-      "locprice": 9.95,
-      "discount_pct": 23.2,
-      "location": "Illuminazione e Smart Home",
-      "category": "Illuminazione",
-      "badge": "",
-      "image": "images/541545.jpg"
-    },
-    {
-      "artno": "40601472",
-      "name": "FEJKA N piant art/vas 12 in/es scotano",
-      "stock": 110,
-      "price1": 12.95,
-      "locprice": 9.95,
-      "discount_pct": 23.2,
-      "location": "Decorazione, candele e piante",
-      "category": "Decorazione",
-      "badge": "",
-      "image": "images/40601472.jpg"
     },
     {
       "artno": "10540611",
@@ -1761,9 +1737,33 @@
       "locprice": 9.95,
       "discount_pct": 23.2,
       "location": "Illuminazione e Smart Home",
-      "category": "Illuminazione",
+      "category": "Altro",
       "badge": "",
       "image": "images/10591813.jpg"
+    },
+    {
+      "artno": "40601472",
+      "name": "FEJKA N piant art/vas 12 in/es scotano",
+      "stock": 110,
+      "price1": 12.95,
+      "locprice": 9.95,
+      "discount_pct": 23.2,
+      "location": "Decorazione, candele e piante",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/40601472.jpg"
+    },
+    {
+      "artno": "541545",
+      "name": "TRÅDFRI N2 kit base E27 smart reg wl/bi cal WW",
+      "stock": 11,
+      "price1": 12.95,
+      "locprice": 9.95,
+      "discount_pct": 23.2,
+      "location": "Illuminazione e Smart Home",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/541545.jpg"
     },
     {
       "artno": "60471002",
@@ -1797,7 +1797,7 @@
       "locprice": 139.0,
       "discount_pct": 22.3,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "ULTIMI PEZZI",
       "image": "images/70538846.jpg"
     },
@@ -1821,7 +1821,7 @@
       "locprice": 1.95,
       "discount_pct": 22.0,
       "location": "Decorazione, candele e piante",
-      "category": "Decorazione",
+      "category": "Altro",
       "badge": "",
       "image": "images/80555835.jpg"
     },
@@ -1922,18 +1922,6 @@
       "image": "images/373207.jpg"
     },
     {
-      "artno": "572810",
-      "name": "ÄLEBY N poggiap GUNNARED grigio fumo/grigio scuro",
-      "stock": 5,
-      "price1": 149.0,
-      "locprice": 119.0,
-      "discount_pct": 20.1,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/572810.jpg"
-    },
-    {
       "artno": "60156121",
       "name": "HEMNES scarp 4 sc 107x22x101 bianco",
       "stock": 4,
@@ -1944,6 +1932,18 @@
       "category": "Altro",
       "badge": "ULTIMI PEZZI",
       "image": "images/60156121.jpg"
+    },
+    {
+      "artno": "572810",
+      "name": "ÄLEBY N poggiap GUNNARED grigio fumo/grigio scuro",
+      "stock": 5,
+      "price1": 149.0,
+      "locprice": 119.0,
+      "discount_pct": 20.1,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/572810.jpg"
     },
     {
       "artno": "90547963",
@@ -2013,21 +2013,9 @@
       "locprice": 39.95,
       "discount_pct": 20.0,
       "location": "Illuminazione e Smart Home",
-      "category": "Illuminazione",
+      "category": "Altro",
       "badge": "",
       "image": "images/20559172.jpg"
-    },
-    {
-      "artno": "50506064",
-      "name": "LAGAN pia cot induz plug-in 1 zona/nero CH",
-      "stock": 3,
-      "price1": 99.95,
-      "locprice": 79.95,
-      "discount_pct": 20.0,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "ULTIMI PEZZI",
-      "image": "images/50506064.jpg"
     },
     {
       "artno": "10482512",
@@ -2042,6 +2030,18 @@
       "image": "images/10482512.jpg"
     },
     {
+      "artno": "50506064",
+      "name": "LAGAN pia cot induz plug-in 1 zona/nero CH",
+      "stock": 3,
+      "price1": 99.95,
+      "locprice": 79.95,
+      "discount_pct": 20.0,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "ULTIMI PEZZI",
+      "image": "images/50506064.jpg"
+    },
+    {
       "artno": "90347351",
       "name": "SONGESAND guardar 120x60x191 bianco",
       "stock": 5,
@@ -2049,7 +2049,7 @@
       "locprice": 199.95,
       "discount_pct": 19.7,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "",
       "image": "images/90347351.jpg"
     },
@@ -2061,7 +2061,7 @@
       "locprice": 159.95,
       "discount_pct": 19.6,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "",
       "image": "images/10366777.jpg"
     },
@@ -2085,7 +2085,7 @@
       "locprice": 89.95,
       "discount_pct": 17.5,
       "location": "Self Service",
-      "category": "Self Service",
+      "category": "Altro",
       "badge": "",
       "image": "images/90482513.jpg"
     },
@@ -2097,7 +2097,7 @@
       "locprice": 149.0,
       "discount_pct": 16.8,
       "location": "Tappeti",
-      "category": "Tappeti",
+      "category": "Altro",
       "badge": "",
       "image": "images/80565392.jpg"
     },
@@ -2109,7 +2109,7 @@
       "locprice": 24.95,
       "discount_pct": 16.7,
       "location": "Biancheria da letto",
-      "category": "Camera da letto",
+      "category": "Altro",
       "badge": "ULTIMI PEZZI",
       "image": "images/20579090.jpg"
     },
@@ -2121,7 +2121,7 @@
       "locprice": 49.95,
       "discount_pct": 16.7,
       "location": "Illuminazione e Smart Home",
-      "category": "Illuminazione",
+      "category": "Altro",
       "badge": "ULTIMI PEZZI",
       "image": "images/473400.jpg"
     },
