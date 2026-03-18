@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.03.2026 - 14:56",
+  "updated_at": "18.03.2026 - 15:02",
   "products": [
     {
       "artno": "611487",
@@ -64,7 +64,7 @@
     {
       "artno": "30593726",
       "name": "EKOLN dispenser grigio chiaro-turchese",
-      "stock": 80,
+      "stock": 79,
       "price1": 6.95,
       "locprice": 2.95,
       "discount_pct": 57.6,
@@ -76,7 +76,7 @@
     {
       "artno": "90603789",
       "name": "VINTERFINT 2025 tovagl car 38x38 rig ro/bi 30pz.",
-      "stock": 85,
+      "stock": 83,
       "price1": 3.5,
       "locprice": 1.5,
       "discount_pct": 57.1,
@@ -100,7 +100,7 @@
     {
       "artno": "10459818",
       "name": "TAGGVALLMO lenz c ang 90x200 bianco",
-      "stock": 558,
+      "stock": 555,
       "price1": 4.25,
       "locprice": 1.95,
       "discount_pct": 54.1,
@@ -148,7 +148,7 @@
     {
       "artno": "50177223",
       "name": "STÖDJA portaposate 31x50 bianco",
-      "stock": 8,
+      "stock": 7,
       "price1": 4.0,
       "locprice": 1.95,
       "discount_pct": 51.2,
@@ -170,18 +170,6 @@
       "image": "images/80592116.jpg"
     },
     {
-      "artno": "70611511",
-      "name": "VINTERFINT 2025 tazza/piattino 7 cl rosa",
-      "stock": 33,
-      "price1": 9.95,
-      "locprice": 4.95,
-      "discount_pct": 50.3,
-      "location": "Utensili da cucina",
-      "category": "Cucine",
-      "badge": "",
-      "image": "images/70611511.jpg"
-    },
-    {
       "artno": "90347723",
       "name": "FÄRGMÅRA lenz c ang 140x200 bianco",
       "stock": 1057,
@@ -192,6 +180,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/90347723.jpg"
+    },
+    {
+      "artno": "70611511",
+      "name": "VINTERFINT 2025 tazza/piattino 7 cl rosa",
+      "stock": 33,
+      "price1": 9.95,
+      "locprice": 4.95,
+      "discount_pct": 50.3,
+      "location": "Utensili da cucina",
+      "category": "Cucine",
+      "badge": "",
+      "image": "images/70611511.jpg"
     },
     {
       "artno": "30537655",
@@ -218,18 +218,6 @@
       "image": "images/552096.jpg"
     },
     {
-      "artno": "90099049",
-      "name": "KNODD bidone c cop 16 l bianco",
-      "stock": 1,
-      "price1": 19.95,
-      "locprice": 9.95,
-      "discount_pct": 50.1,
-      "location": "Organizzare e contenere",
-      "category": "Altro",
-      "badge": "ULTIMI PEZZI",
-      "image": "images/90099049.jpg"
-    },
-    {
       "artno": "10576351",
       "name": "TÅGSPÅR tapp pl 170x240 bianco/beige",
       "stock": 5,
@@ -240,6 +228,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/10576351.jpg"
+    },
+    {
+      "artno": "90099049",
+      "name": "KNODD bidone c cop 16 l bianco",
+      "stock": 1,
+      "price1": 19.95,
+      "locprice": 9.95,
+      "discount_pct": 50.1,
+      "location": "Organizzare e contenere",
+      "category": "Altro",
+      "badge": "ULTIMI PEZZI",
+      "image": "images/90099049.jpg"
     },
     {
       "artno": "30507286",
@@ -268,7 +268,7 @@
     {
       "artno": "80347728",
       "name": "FÄRGMÅRA lenz c ang 180x200 bianco",
-      "stock": 7,
+      "stock": 6,
       "price1": 16.95,
       "locprice": 8.95,
       "discount_pct": 47.2,
@@ -304,7 +304,7 @@
     {
       "artno": "10600313",
       "name": "HÖSTAGILLE 2025 tovagl car 33x33 arancione 30pz.",
-      "stock": 7,
+      "stock": 6,
       "price1": 2.3,
       "locprice": 1.3,
       "discount_pct": 43.5,
@@ -312,18 +312,6 @@
       "category": "Cucine",
       "badge": "",
       "image": "images/10600313.jpg"
-    },
-    {
-      "artno": "40347730",
-      "name": "FÄRGMÅRA lenz c ang 90x200 bianco",
-      "stock": 1,
-      "price1": 6.95,
-      "locprice": 3.95,
-      "discount_pct": 43.2,
-      "location": "Biancheria da letto",
-      "category": "Altro",
-      "badge": "ULTIMI PEZZI",
-      "image": "images/40347730.jpg"
     },
     {
       "artno": "20590747",
@@ -336,6 +324,18 @@
       "category": "Bagno",
       "badge": "",
       "image": "images/20590747.jpg"
+    },
+    {
+      "artno": "40347730",
+      "name": "FÄRGMÅRA lenz c ang 90x200 bianco",
+      "stock": 1,
+      "price1": 6.95,
+      "locprice": 3.95,
+      "discount_pct": 43.2,
+      "location": "Biancheria da letto",
+      "category": "Altro",
+      "badge": "ULTIMI PEZZI",
+      "image": "images/40347730.jpg"
     },
     {
       "artno": "90571199",
@@ -412,7 +412,7 @@
     {
       "artno": "30608247",
       "name": "OFTAST ciotola 15 verde chiaro verde/motivo a pois",
-      "stock": 356,
+      "stock": 353,
       "price1": 1.6,
       "locprice": 0.95,
       "discount_pct": 40.6,
@@ -420,6 +420,18 @@
       "category": "Cucine",
       "badge": "",
       "image": "images/30608247.jpg"
+    },
+    {
+      "artno": "10555853",
+      "name": "FRUKTSKOG candelin pr 3.5 h Vetiv/geran/ne-tu 30pz",
+      "stock": 311,
+      "price1": 4.95,
+      "locprice": 2.95,
+      "discount_pct": 40.4,
+      "location": "Decorazione, candele e piante",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/10555853.jpg"
     },
     {
       "artno": "70575853",
@@ -432,18 +444,6 @@
       "category": "Altro",
       "badge": "",
       "image": "images/70575853.jpg"
-    },
-    {
-      "artno": "10555853",
-      "name": "FRUKTSKOG candelin pr 3.5 h Vetiv/geran/ne-tu 30pz",
-      "stock": 313,
-      "price1": 4.95,
-      "locprice": 2.95,
-      "discount_pct": 40.4,
-      "location": "Decorazione, candele e piante",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/10555853.jpg"
     },
     {
       "artno": "70493013",
@@ -506,18 +506,6 @@
       "image": "images/30584623.jpg"
     },
     {
-      "artno": "60611502",
-      "name": "VINTERFINT 2025 piat port 40x14 blu",
-      "stock": 17,
-      "price1": 24.95,
-      "locprice": 14.95,
-      "discount_pct": 40.1,
-      "location": "Utensili da cucina",
-      "category": "Cucine",
-      "badge": "",
-      "image": "images/60611502.jpg"
-    },
-    {
       "artno": "20592341",
       "name": "ÄLGANÄS appendiab ter 173x33 azzurro",
       "stock": 21,
@@ -528,6 +516,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/20592341.jpg"
+    },
+    {
+      "artno": "60611502",
+      "name": "VINTERFINT 2025 piat port 40x14 blu",
+      "stock": 17,
+      "price1": 24.95,
+      "locprice": 14.95,
+      "discount_pct": 40.1,
+      "location": "Utensili da cucina",
+      "category": "Cucine",
+      "badge": "",
+      "image": "images/60611502.jpg"
     },
     {
       "artno": "90517782",
@@ -566,18 +566,6 @@
       "image": "images/40279731.jpg"
     },
     {
-      "artno": "40177228",
-      "name": "STÖDJA portautens 20x50 bianco",
-      "stock": 228,
-      "price1": 2.5,
-      "locprice": 1.5,
-      "discount_pct": 40.0,
-      "location": "Cucina",
-      "category": "Cucine",
-      "badge": "",
-      "image": "images/40177228.jpg"
-    },
-    {
       "artno": "30540747",
       "name": "BESTÅ N p cop 120x40 vetro bianco/verde chiaro",
       "stock": 42,
@@ -588,6 +576,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/30540747.jpg"
+    },
+    {
+      "artno": "40177228",
+      "name": "STÖDJA portautens 20x50 bianco",
+      "stock": 228,
+      "price1": 2.5,
+      "locprice": 1.5,
+      "discount_pct": 40.0,
+      "location": "Cucina",
+      "category": "Cucine",
+      "badge": "",
+      "image": "images/40177228.jpg"
     },
     {
       "artno": "10497815",
@@ -724,7 +724,7 @@
     {
       "artno": "40609492",
       "name": "OFTAST ciotola 15 verde chiaro",
-      "stock": 350,
+      "stock": 342,
       "price1": 0.95,
       "locprice": 0.6,
       "discount_pct": 36.8,
@@ -796,7 +796,7 @@
     {
       "artno": "70598265",
       "name": "KLOTLÖNN vaso c sottov 12 in/es/ro/ma bei c",
-      "stock": 53,
+      "stock": 52,
       "price1": 7.5,
       "locprice": 4.95,
       "discount_pct": 34.0,
@@ -844,7 +844,7 @@
     {
       "artno": "70566641",
       "name": "BLÅKÄXA set cannuc/spaz 5 pz colori vari",
-      "stock": 194,
+      "stock": 192,
       "price1": 5.95,
       "locprice": 3.95,
       "discount_pct": 33.6,
@@ -852,18 +852,6 @@
       "category": "Altro",
       "badge": "",
       "image": "images/70566641.jpg"
-    },
-    {
-      "artno": "90551634",
-      "name": "AFTONSPARV peluche astronave/fantasia",
-      "stock": 11,
-      "price1": 14.95,
-      "locprice": 9.95,
-      "discount_pct": 33.4,
-      "location": "IKEA dei Piccoli",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/90551634.jpg"
     },
     {
       "artno": "40482450",
@@ -888,6 +876,30 @@
       "category": "Altro",
       "badge": "",
       "image": "images/50494259.jpg"
+    },
+    {
+      "artno": "80541481",
+      "name": "VÄGNÄT tap pi 170x240 bi sp gr/fatto a mano",
+      "stock": 16,
+      "price1": 299.0,
+      "locprice": 199.0,
+      "discount_pct": 33.4,
+      "location": "Tappeti",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/80541481.jpg"
+    },
+    {
+      "artno": "90551634",
+      "name": "AFTONSPARV peluche astronave/fantasia",
+      "stock": 11,
+      "price1": 14.95,
+      "locprice": 9.95,
+      "discount_pct": 33.4,
+      "location": "IKEA dei Piccoli",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/90551634.jpg"
     },
     {
       "artno": "10453086",
@@ -916,7 +928,7 @@
     {
       "artno": "10386539",
       "name": "MELODI N lamp sosp 38 bianco",
-      "stock": 21,
+      "stock": 18,
       "price1": 14.95,
       "locprice": 9.95,
       "discount_pct": 33.4,
@@ -924,18 +936,6 @@
       "category": "Altro",
       "badge": "",
       "image": "images/10386539.jpg"
-    },
-    {
-      "artno": "80541481",
-      "name": "VÄGNÄT tap pi 170x240 bi sp gr/fatto a mano",
-      "stock": 16,
-      "price1": 299.0,
-      "locprice": 199.0,
-      "discount_pct": 33.4,
-      "location": "Tappeti",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/80541481.jpg"
     },
     {
       "artno": "90512242",
@@ -962,18 +962,6 @@
       "image": "images/30512235.jpg"
     },
     {
-      "artno": "40489423",
-      "name": "ALMTJÄRN NN tapp bagn 60x90 beige",
-      "stock": 31,
-      "price1": 29.95,
-      "locprice": 19.95,
-      "discount_pct": 33.4,
-      "location": "MH Bagno",
-      "category": "Bagno",
-      "badge": "",
-      "image": "images/40489423.jpg"
-    },
-    {
       "artno": "60590745",
       "name": "BERGVATTNET deviat aut doc",
       "stock": 58,
@@ -984,6 +972,18 @@
       "category": "Bagno",
       "badge": "",
       "image": "images/60590745.jpg"
+    },
+    {
+      "artno": "40489423",
+      "name": "ALMTJÄRN NN tapp bagn 60x90 beige",
+      "stock": 31,
+      "price1": 29.95,
+      "locprice": 19.95,
+      "discount_pct": 33.4,
+      "location": "MH Bagno",
+      "category": "Bagno",
+      "badge": "",
+      "image": "images/40489423.jpg"
     },
     {
       "artno": "50527028",
@@ -998,18 +998,6 @@
       "image": "images/50527028.jpg"
     },
     {
-      "artno": "50575316",
-      "name": "KORSKOVALL copr/2f 240x220/50x60 fant/mot flor",
-      "stock": 1,
-      "price1": 59.95,
-      "locprice": 39.95,
-      "discount_pct": 33.4,
-      "location": "Biancheria da letto",
-      "category": "Altro",
-      "badge": "ULTIMI PEZZI",
-      "image": "images/50575316.jpg"
-    },
-    {
       "artno": "50339391",
       "name": "PLUTTEN mat sch let al 80x200",
       "stock": 14,
@@ -1022,6 +1010,18 @@
       "image": "images/50339391.jpg"
     },
     {
+      "artno": "50575316",
+      "name": "KORSKOVALL copr/2f 240x220/50x60 fant/mot flor",
+      "stock": 1,
+      "price1": 59.95,
+      "locprice": 39.95,
+      "discount_pct": 33.4,
+      "location": "Biancheria da letto",
+      "category": "Altro",
+      "badge": "ULTIMI PEZZI",
+      "image": "images/50575316.jpg"
+    },
+    {
       "artno": "392461",
       "name": "HEMNES cas2 54x66 grigio trattato con mordente",
       "stock": 6,
@@ -1032,6 +1032,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/392461.jpg"
+    },
+    {
+      "artno": "10440428",
+      "name": "ENHET pen/2ri 40x30x75 bianco",
+      "stock": 3,
+      "price1": 45.0,
+      "locprice": 30.0,
+      "discount_pct": 33.3,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "ULTIMI PEZZI",
+      "image": "images/10440428.jpg"
     },
     {
       "artno": "90440429",
@@ -1058,18 +1070,6 @@
       "image": "images/50452155.jpg"
     },
     {
-      "artno": "10440428",
-      "name": "ENHET pen/2ri 40x30x75 bianco",
-      "stock": 3,
-      "price1": 45.0,
-      "locprice": 30.0,
-      "discount_pct": 33.3,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "ULTIMI PEZZI",
-      "image": "images/10440428.jpg"
-    },
-    {
       "artno": "30500893",
       "name": "OLDERDALEN comod 47x43 grigio-verde/pino",
       "stock": 3,
@@ -1092,6 +1092,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/290783.jpg"
+    },
+    {
+      "artno": "70503738",
+      "name": "VINGSÖN polt int/est grigio",
+      "stock": 28,
+      "price1": 324.0,
+      "locprice": 219.0,
+      "discount_pct": 32.4,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/70503738.jpg"
     },
     {
       "artno": "50322847",
@@ -1132,7 +1144,7 @@
     {
       "artno": "70551531",
       "name": "AFTONSPARV peluche tuta astron 28 coniglio",
-      "stock": 387,
+      "stock": 386,
       "price1": 12.95,
       "locprice": 8.95,
       "discount_pct": 30.9,
@@ -1334,16 +1346,16 @@
       "image": "images/90564009.jpg"
     },
     {
-      "artno": "50566449",
-      "name": "TURBOKASTANJ specchio 75x75 rosso",
-      "stock": 18,
+      "artno": "50555097",
+      "name": "TURBOKASTANJ specchio 75x75",
+      "stock": 34,
       "price1": 69.95,
       "locprice": 49.95,
       "discount_pct": 28.6,
       "location": "Rivolgersi al personale",
       "category": "Altro",
       "badge": "",
-      "image": "images/50566449.jpg"
+      "image": "images/50555097.jpg"
     },
     {
       "artno": "20454311",
@@ -1358,16 +1370,16 @@
       "image": "images/20454311.jpg"
     },
     {
-      "artno": "50555097",
-      "name": "TURBOKASTANJ specchio 75x75",
-      "stock": 34,
+      "artno": "50566449",
+      "name": "TURBOKASTANJ specchio 75x75 rosso",
+      "stock": 18,
       "price1": 69.95,
       "locprice": 49.95,
       "discount_pct": 28.6,
       "location": "Rivolgersi al personale",
       "category": "Altro",
       "badge": "",
-      "image": "images/50555097.jpg"
+      "image": "images/50566449.jpg"
     },
     {
       "artno": "80503375",
@@ -1396,7 +1408,7 @@
     {
       "artno": "80482453",
       "name": "DVALA lenz c ang 180x200 grigio chiaro",
-      "stock": 119,
+      "stock": 117,
       "price1": 17.95,
       "locprice": 12.95,
       "discount_pct": 27.9,
@@ -1504,7 +1516,7 @@
     {
       "artno": "10357216",
       "name": "DVALA N lenz c ang 140x200 bianco",
-      "stock": 135,
+      "stock": 133,
       "price1": 11.95,
       "locprice": 8.95,
       "discount_pct": 25.1,
@@ -1610,16 +1622,16 @@
       "image": "images/10452548.jpg"
     },
     {
-      "artno": "40562079",
-      "name": "KALLAX scaffale 147x77 verde scuro",
-      "stock": 65,
+      "artno": "40488796",
+      "name": "DELSJÖN miscelat metallo nero spazzolato",
+      "stock": 31,
       "price1": 79.95,
       "locprice": 59.95,
       "discount_pct": 25.0,
       "location": "Rivolgersi al personale",
       "category": "Altro",
       "badge": "",
-      "image": "images/40562079.jpg"
+      "image": "images/40488796.jpg"
     },
     {
       "artno": "60507379",
@@ -1634,16 +1646,16 @@
       "image": "images/60507379.jpg"
     },
     {
-      "artno": "40488796",
-      "name": "DELSJÖN miscelat metallo nero spazzolato",
-      "stock": 31,
+      "artno": "40562079",
+      "name": "KALLAX scaffale 147x77 verde scuro",
+      "stock": 65,
       "price1": 79.95,
       "locprice": 59.95,
       "discount_pct": 25.0,
       "location": "Rivolgersi al personale",
       "category": "Altro",
       "badge": "",
-      "image": "images/40488796.jpg"
+      "image": "images/40562079.jpg"
     },
     {
       "artno": "40557657",
@@ -1720,7 +1732,7 @@
     {
       "artno": "10591813",
       "name": "VAPPEBY cassa Bluet port impermeabile/blu",
-      "stock": 10,
+      "stock": 9,
       "price1": 12.95,
       "locprice": 9.95,
       "discount_pct": 23.2,
@@ -1804,7 +1816,7 @@
     {
       "artno": "80555835",
       "name": "FRUKTSKOG cand pr/vet 20 h Vetiver e geranio/ne-tu",
-      "stock": 777,
+      "stock": 776,
       "price1": 2.5,
       "locprice": 1.95,
       "discount_pct": 22.0,
@@ -1852,7 +1864,7 @@
     {
       "artno": "10608253",
       "name": "OFTAST piatto 25 verde chiaro",
-      "stock": 332,
+      "stock": 326,
       "price1": 0.95,
       "locprice": 0.75,
       "discount_pct": 21.1,
@@ -1912,7 +1924,7 @@
     {
       "artno": "60156121",
       "name": "HEMNES scarp 4 sc 107x22x101 bianco",
-      "stock": 4,
+      "stock": 3,
       "price1": 149.0,
       "locprice": 119.0,
       "discount_pct": 20.1,
