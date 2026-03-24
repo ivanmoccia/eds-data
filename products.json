@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.03.2026 - 10:26",
+  "updated_at": "24.03.2026 - 11:07",
   "products": [
     {
       "artno": "611487",
@@ -28,7 +28,7 @@
     {
       "artno": "80395804",
       "name": "DITTE N tess metr 140 blu scuro",
-      "stock": 3309,
+      "stock": 3304,
       "price1": 5.95,
       "locprice": 1.5,
       "discount_pct": 74.8,
@@ -40,7 +40,7 @@
     {
       "artno": "590748",
       "name": "BERGVATTNET doccetta mono/tubo",
-      "stock": 84,
+      "stock": 83,
       "price1": 12.95,
       "locprice": 3.95,
       "discount_pct": 69.5,
@@ -64,7 +64,7 @@
     {
       "artno": "30593726",
       "name": "EKOLN dispenser grigio chiaro-turchese",
-      "stock": 71,
+      "stock": 70,
       "price1": 6.95,
       "locprice": 2.95,
       "discount_pct": 57.6,
@@ -76,7 +76,7 @@
     {
       "artno": "90603789",
       "name": "VINTERFINT 2025 tovagl car 38x38 rig ro/bi 30pz.",
-      "stock": 79,
+      "stock": 77,
       "price1": 3.5,
       "locprice": 1.5,
       "discount_pct": 57.1,
@@ -88,7 +88,7 @@
     {
       "artno": "10462180",
       "name": "ÄSPERÖD tavolino 45 nero/vetro nero",
-      "stock": 15,
+      "stock": 16,
       "price1": 79.95,
       "locprice": 34.95,
       "discount_pct": 56.3,
@@ -100,7 +100,7 @@
     {
       "artno": "10459818",
       "name": "TAGGVALLMO lenz c ang 90x200 bianco",
-      "stock": 512,
+      "stock": 510,
       "price1": 4.25,
       "locprice": 1.95,
       "discount_pct": 54.1,
@@ -136,7 +136,7 @@
     {
       "artno": "50234803",
       "name": "FÄRGRIK tazza 25 cl turchese",
-      "stock": 22,
+      "stock": 20,
       "price1": 1.95,
       "locprice": 0.95,
       "discount_pct": 51.3,
@@ -206,6 +206,18 @@
       "image": "images/30537655.jpg"
     },
     {
+      "artno": "90099049",
+      "name": "KNODD bidone c cop 16 l bianco",
+      "stock": 1,
+      "price1": 19.95,
+      "locprice": 9.95,
+      "discount_pct": 50.1,
+      "location": "Organizzare e contenere",
+      "category": "Altro",
+      "badge": "ULTIMI PEZZI",
+      "image": "images/90099049.jpg"
+    },
+    {
       "artno": "10576351",
       "name": "TÅGSPÅR tapp pl 170x240 bianco/beige",
       "stock": 5,
@@ -228,18 +240,6 @@
       "category": "Altro",
       "badge": "",
       "image": "images/552096.jpg"
-    },
-    {
-      "artno": "90099049",
-      "name": "KNODD bidone c cop 16 l bianco",
-      "stock": 1,
-      "price1": 19.95,
-      "locprice": 9.95,
-      "discount_pct": 50.1,
-      "location": "Organizzare e contenere",
-      "category": "Altro",
-      "badge": "ULTIMI PEZZI",
-      "image": "images/90099049.jpg"
     },
     {
       "artno": "30507286",
@@ -314,6 +314,18 @@
       "image": "images/40347730.jpg"
     },
     {
+      "artno": "90571199",
+      "name": "PARKOLVON fed 50x60 fantasia/a quadri Recy",
+      "stock": 27,
+      "price1": 6.95,
+      "locprice": 3.95,
+      "discount_pct": 43.2,
+      "location": "Biancheria da letto",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/90571199.jpg"
+    },
+    {
       "artno": "20590747",
       "name": "BERGVATTNET booster doccet",
       "stock": 88,
@@ -324,18 +336,6 @@
       "category": "Bagno",
       "badge": "",
       "image": "images/20590747.jpg"
-    },
-    {
-      "artno": "90571199",
-      "name": "PARKOLVON fed 50x60 fantasia/a quadri Recy",
-      "stock": 29,
-      "price1": 6.95,
-      "locprice": 3.95,
-      "discount_pct": 43.2,
-      "location": "Biancheria da letto",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/90571199.jpg"
     },
     {
       "artno": "50436962",
@@ -400,7 +400,7 @@
     {
       "artno": "30608247",
       "name": "OFTAST ciotola 15 verde chiaro verde/motivo a pois",
-      "stock": 328,
+      "stock": 320,
       "price1": 1.6,
       "locprice": 0.95,
       "discount_pct": 40.6,
@@ -408,18 +408,6 @@
       "category": "Cucine",
       "badge": "",
       "image": "images/30608247.jpg"
-    },
-    {
-      "artno": "70575853",
-      "name": "SNÖDROTTNING fed 50x60 fantasia/a righe",
-      "stock": 33,
-      "price1": 4.95,
-      "locprice": 2.95,
-      "discount_pct": 40.4,
-      "location": "Biancheria da letto",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/70575853.jpg"
     },
     {
       "artno": "10555853",
@@ -434,9 +422,21 @@
       "image": "images/10555853.jpg"
     },
     {
+      "artno": "70575853",
+      "name": "SNÖDROTTNING fed 50x60 fantasia/a righe",
+      "stock": 33,
+      "price1": 4.95,
+      "locprice": 2.95,
+      "discount_pct": 40.4,
+      "location": "Biancheria da letto",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/70575853.jpg"
+    },
+    {
       "artno": "70493013",
       "name": "EKOLN secch immond 3 l beige",
-      "stock": 218,
+      "stock": 213,
       "price1": 9.95,
       "locprice": 5.95,
       "discount_pct": 40.2,
@@ -448,7 +448,7 @@
     {
       "artno": "20593736",
       "name": "EKOLN secch immond 3 l grigio chiaro-turchese",
-      "stock": 161,
+      "stock": 159,
       "price1": 9.95,
       "locprice": 5.95,
       "discount_pct": 40.2,
@@ -496,7 +496,7 @@
     {
       "artno": "20592341",
       "name": "ÄLGANÄS appendiab ter 173x33 azzurro",
-      "stock": 18,
+      "stock": 17,
       "price1": 24.95,
       "locprice": 14.95,
       "discount_pct": 40.1,
@@ -508,7 +508,7 @@
     {
       "artno": "90517782",
       "name": "SKUGGNÄVA cusc 40x58 bianco/grigio",
-      "stock": 36,
+      "stock": 35,
       "price1": 24.95,
       "locprice": 14.95,
       "discount_pct": 40.1,
@@ -556,7 +556,7 @@
     {
       "artno": "40177228",
       "name": "STÖDJA portautens 20x50 bianco",
-      "stock": 215,
+      "stock": 193,
       "price1": 2.5,
       "locprice": 1.5,
       "discount_pct": 40.0,
@@ -580,7 +580,7 @@
     {
       "artno": "10497815",
       "name": "MOSSLANDA mens quad 55 bi pi mor",
-      "stock": 11,
+      "stock": 10,
       "price1": 6.5,
       "locprice": 3.95,
       "discount_pct": 39.2,
@@ -592,7 +592,7 @@
     {
       "artno": "355454",
       "name": "JÄTTETRÖTT mat mol ins lett 70x140x11 bianco",
-      "stock": 41,
+      "stock": 40,
       "price1": 129.0,
       "locprice": 79.0,
       "discount_pct": 38.8,
@@ -652,7 +652,7 @@
     {
       "artno": "90580655",
       "name": "BERGVATTNET tapp bagn 60x60 blu",
-      "stock": 94,
+      "stock": 92,
       "price1": 7.95,
       "locprice": 4.95,
       "discount_pct": 37.7,
@@ -712,7 +712,7 @@
     {
       "artno": "40609492",
       "name": "OFTAST ciotola 15 verde chiaro",
-      "stock": 276,
+      "stock": 260,
       "price1": 0.95,
       "locprice": 0.6,
       "discount_pct": 36.8,
@@ -720,18 +720,6 @@
       "category": "Cucine",
       "badge": "",
       "image": "images/40609492.jpg"
-    },
-    {
-      "artno": "10311308",
-      "name": "KOPPANG casset 6 172x44x83 bianco",
-      "stock": 15,
-      "price1": 199.0,
-      "locprice": 129.0,
-      "discount_pct": 35.2,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/10311308.jpg"
     },
     {
       "artno": "60363842",
@@ -746,9 +734,21 @@
       "image": "images/60363842.jpg"
     },
     {
+      "artno": "10311308",
+      "name": "KOPPANG casset 6 172x44x83 bianco",
+      "stock": 15,
+      "price1": 199.0,
+      "locprice": 129.0,
+      "discount_pct": 35.2,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/10311308.jpg"
+    },
+    {
       "artno": "60572063",
       "name": "JÄTTEBJÖRN scat/cop 81x45x44 bianco/grigio",
-      "stock": 188,
+      "stock": 187,
       "price1": 19.95,
       "locprice": 12.95,
       "discount_pct": 35.1,
@@ -832,7 +832,7 @@
     {
       "artno": "70566641",
       "name": "BLÅKÄXA set cannuc/spaz 5 pz colori vari",
-      "stock": 166,
+      "stock": 160,
       "price1": 5.95,
       "locprice": 3.95,
       "discount_pct": 33.6,
@@ -840,30 +840,6 @@
       "category": "Altro",
       "badge": "",
       "image": "images/70566641.jpg"
-    },
-    {
-      "artno": "50494259",
-      "name": "VEDBO polt sch alt GUNNARED verde chiaro",
-      "stock": 9,
-      "price1": 299.0,
-      "locprice": 199.0,
-      "discount_pct": 33.4,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/50494259.jpg"
-    },
-    {
-      "artno": "40482450",
-      "name": "DVALA lenz c ang 160x200 grigio chiaro",
-      "stock": 34,
-      "price1": 14.95,
-      "locprice": 9.95,
-      "discount_pct": 33.4,
-      "location": "Biancheria da letto",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/40482450.jpg"
     },
     {
       "artno": "90551634",
@@ -878,6 +854,30 @@
       "image": "images/90551634.jpg"
     },
     {
+      "artno": "40482450",
+      "name": "DVALA lenz c ang 160x200 grigio chiaro",
+      "stock": 30,
+      "price1": 14.95,
+      "locprice": 9.95,
+      "discount_pct": 33.4,
+      "location": "Biancheria da letto",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/40482450.jpg"
+    },
+    {
+      "artno": "50494259",
+      "name": "VEDBO polt sch alt GUNNARED verde chiaro",
+      "stock": 9,
+      "price1": 299.0,
+      "locprice": 199.0,
+      "discount_pct": 33.4,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/50494259.jpg"
+    },
+    {
       "artno": "10386539",
       "name": "MELODI N lamp sosp 38 bianco",
       "stock": 17,
@@ -888,30 +888,6 @@
       "category": "Altro",
       "badge": "",
       "image": "images/10386539.jpg"
-    },
-    {
-      "artno": "10453086",
-      "name": "PLATSA str let/cont 140x200 bianco",
-      "stock": 1,
-      "price1": 299.0,
-      "locprice": 199.0,
-      "discount_pct": 33.4,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "ULTIMI PEZZI",
-      "image": "images/10453086.jpg"
-    },
-    {
-      "artno": "80541481",
-      "name": "VÄGNÄT tap pi 170x240 bi sp gr/fatto a mano",
-      "stock": 16,
-      "price1": 299.0,
-      "locprice": 199.0,
-      "discount_pct": 33.4,
-      "location": "Tappeti",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/80541481.jpg"
     },
     {
       "artno": "10435224",
@@ -926,16 +902,16 @@
       "image": "images/10435224.jpg"
     },
     {
-      "artno": "30512235",
-      "name": "LINANÄS div 3 con chaise-longue/VISSLE beige",
-      "stock": 1,
-      "price1": 449.0,
-      "locprice": 299.0,
+      "artno": "80541481",
+      "name": "VÄGNÄT tap pi 170x240 bi sp gr/fatto a mano",
+      "stock": 16,
+      "price1": 299.0,
+      "locprice": 199.0,
       "discount_pct": 33.4,
-      "location": "Rivolgersi al personale",
+      "location": "Tappeti",
       "category": "Altro",
-      "badge": "ULTIMI PEZZI",
-      "image": "images/30512235.jpg"
+      "badge": "",
+      "image": "images/80541481.jpg"
     },
     {
       "artno": "90512242",
@@ -950,16 +926,16 @@
       "image": "images/90512242.jpg"
     },
     {
-      "artno": "40489423",
-      "name": "ALMTJÄRN NN tapp bagn 60x90 beige",
-      "stock": 24,
-      "price1": 29.95,
-      "locprice": 19.95,
+      "artno": "30512235",
+      "name": "LINANÄS div 3 con chaise-longue/VISSLE beige",
+      "stock": 1,
+      "price1": 449.0,
+      "locprice": 299.0,
       "discount_pct": 33.4,
-      "location": "MH Bagno",
-      "category": "Bagno",
-      "badge": "",
-      "image": "images/40489423.jpg"
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "ULTIMI PEZZI",
+      "image": "images/30512235.jpg"
     },
     {
       "artno": "60590745",
@@ -972,6 +948,18 @@
       "category": "Bagno",
       "badge": "",
       "image": "images/60590745.jpg"
+    },
+    {
+      "artno": "40489423",
+      "name": "ALMTJÄRN NN tapp bagn 60x90 beige",
+      "stock": 24,
+      "price1": 29.95,
+      "locprice": 19.95,
+      "discount_pct": 33.4,
+      "location": "MH Bagno",
+      "category": "Bagno",
+      "badge": "",
+      "image": "images/40489423.jpg"
     },
     {
       "artno": "50527028",
@@ -1022,18 +1010,6 @@
       "image": "images/392461.jpg"
     },
     {
-      "artno": "90440429",
-      "name": "ENHET pens/ripiano 60x30x60 bianco",
-      "stock": 3,
-      "price1": 45.0,
-      "locprice": 30.0,
-      "discount_pct": 33.3,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "ULTIMI PEZZI",
-      "image": "images/90440429.jpg"
-    },
-    {
       "artno": "10440428",
       "name": "ENHET pen/2ri 40x30x75 bianco",
       "stock": 3,
@@ -1044,6 +1020,18 @@
       "category": "Altro",
       "badge": "ULTIMI PEZZI",
       "image": "images/10440428.jpg"
+    },
+    {
+      "artno": "90440429",
+      "name": "ENHET pens/ripiano 60x30x60 bianco",
+      "stock": 3,
+      "price1": 45.0,
+      "locprice": 30.0,
+      "discount_pct": 33.3,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "ULTIMI PEZZI",
+      "image": "images/90440429.jpg"
     },
     {
       "artno": "50452155",
@@ -1072,7 +1060,7 @@
     {
       "artno": "290783",
       "name": "FLISAT esposit libr",
-      "stock": 38,
+      "stock": 36,
       "price1": 36.95,
       "locprice": 24.95,
       "discount_pct": 32.5,
@@ -1118,18 +1106,6 @@
       "image": "images/10385950.jpg"
     },
     {
-      "artno": "70551531",
-      "name": "AFTONSPARV peluche tuta astron 28 coniglio",
-      "stock": 384,
-      "price1": 12.95,
-      "locprice": 8.95,
-      "discount_pct": 30.9,
-      "location": "Ristorante Svedese",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/70551531.jpg"
-    },
-    {
       "artno": "60551536",
       "name": "AFTONSPARV peluche tuta astron 28 gatto",
       "stock": 172,
@@ -1140,6 +1116,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/60551536.jpg"
+    },
+    {
+      "artno": "70551531",
+      "name": "AFTONSPARV peluche tuta astron 28 coniglio",
+      "stock": 384,
+      "price1": 12.95,
+      "locprice": 8.95,
+      "discount_pct": 30.9,
+      "location": "Ristorante Svedese",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/70551531.jpg"
     },
     {
       "artno": "40551542",
@@ -1156,7 +1144,7 @@
     {
       "artno": "10538849",
       "name": "JÄTTESTA scaffale 80x195 bianco/bambù chiaro",
-      "stock": 3,
+      "stock": 2,
       "price1": 229.0,
       "locprice": 159.0,
       "discount_pct": 30.6,
@@ -1164,18 +1152,6 @@
       "category": "Altro",
       "badge": "ULTIMI PEZZI",
       "image": "images/10538849.jpg"
-    },
-    {
-      "artno": "50368784",
-      "name": "MATTRADITION for term IKEA 300 inox CH",
-      "stock": 5,
-      "price1": 429.0,
-      "locprice": 299.0,
-      "discount_pct": 30.3,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/50368784.jpg"
     },
     {
       "artno": "10411874",
@@ -1188,6 +1164,18 @@
       "category": "Altro",
       "badge": "ULTIMI PEZZI",
       "image": "images/10411874.jpg"
+    },
+    {
+      "artno": "50368784",
+      "name": "MATTRADITION for term IKEA 300 inox CH",
+      "stock": 5,
+      "price1": 429.0,
+      "locprice": 299.0,
+      "discount_pct": 30.3,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/50368784.jpg"
     },
     {
       "artno": "70411871",
@@ -1228,7 +1216,7 @@
     {
       "artno": "20618124",
       "name": "GROVSNÄRJA copr/fe 150x200/50x60 gr melange RECY",
-      "stock": 50,
+      "stock": 48,
       "price1": 49.95,
       "locprice": 34.95,
       "discount_pct": 30.0,
@@ -1264,7 +1252,7 @@
     {
       "artno": "80242095",
       "name": "HEMNES NN str let 160x200 mordente bianco",
-      "stock": 6,
+      "stock": 5,
       "price1": 279.0,
       "locprice": 199.0,
       "discount_pct": 28.7,
@@ -1288,7 +1276,7 @@
     {
       "artno": "90492847",
       "name": "POÄNG cusc poltr SKIFTEBO grigio scuro",
-      "stock": 36,
+      "stock": 33,
       "price1": 49.0,
       "locprice": 34.95,
       "discount_pct": 28.7,
@@ -1334,18 +1322,6 @@
       "image": "images/90564009.jpg"
     },
     {
-      "artno": "50555097",
-      "name": "TURBOKASTANJ specchio 75x75",
-      "stock": 34,
-      "price1": 69.95,
-      "locprice": 49.95,
-      "discount_pct": 28.6,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/50555097.jpg"
-    },
-    {
       "artno": "20454311",
       "name": "LOMMARYD specchio 66x80",
       "stock": 9,
@@ -1356,6 +1332,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/20454311.jpg"
+    },
+    {
+      "artno": "50555097",
+      "name": "TURBOKASTANJ specchio 75x75",
+      "stock": 34,
+      "price1": 69.95,
+      "locprice": 49.95,
+      "discount_pct": 28.6,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/50555097.jpg"
     },
     {
       "artno": "50566449",
@@ -1396,7 +1384,7 @@
     {
       "artno": "80482453",
       "name": "DVALA lenz c ang 180x200 grigio chiaro",
-      "stock": 111,
+      "stock": 110,
       "price1": 17.95,
       "locprice": 12.95,
       "discount_pct": 27.9,
@@ -1418,18 +1406,6 @@
       "image": "images/40351454.jpg"
     },
     {
-      "artno": "30392469",
-      "name": "HEMNES cassett 8 160x96 gr trattato con mordente",
-      "stock": 22,
-      "price1": 329.0,
-      "locprice": 239.0,
-      "discount_pct": 27.4,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/30392469.jpg"
-    },
-    {
       "artno": "40239274",
       "name": "HEMNES N cassett 8 160x96 marrone-nero",
       "stock": 7,
@@ -1440,6 +1416,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/40239274.jpg"
+    },
+    {
+      "artno": "30392469",
+      "name": "HEMNES cassett 8 160x96 gr trattato con mordente",
+      "stock": 22,
+      "price1": 329.0,
+      "locprice": 239.0,
+      "discount_pct": 27.4,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/30392469.jpg"
     },
     {
       "artno": "90557042",
@@ -1504,7 +1492,7 @@
     {
       "artno": "10357216",
       "name": "DVALA N lenz c ang 140x200 bianco",
-      "stock": 123,
+      "stock": 122,
       "price1": 11.95,
       "locprice": 8.95,
       "discount_pct": 25.1,
@@ -1526,18 +1514,6 @@
       "image": "images/80590749.jpg"
     },
     {
-      "artno": "80486328",
-      "name": "GURSKEN comod 39x30 beige chiaro",
-      "stock": 2,
-      "price1": 19.95,
-      "locprice": 14.95,
-      "discount_pct": 25.1,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "ULTIMI PEZZI",
-      "image": "images/80486328.jpg"
-    },
-    {
       "artno": "60377976",
       "name": "DVALA N copr/fe 150x200/50x60 bianco",
       "stock": 18,
@@ -1550,16 +1526,16 @@
       "image": "images/60377976.jpg"
     },
     {
-      "artno": "30617949",
-      "name": "BORSTTÅG coprilet 150x250 grigio chiaro/a quadri",
-      "stock": 88,
-      "price1": 39.95,
-      "locprice": 29.95,
-      "discount_pct": 25.0,
-      "location": "Biancheria da letto",
+      "artno": "80486328",
+      "name": "GURSKEN comod 39x30 beige chiaro",
+      "stock": 2,
+      "price1": 19.95,
+      "locprice": 14.95,
+      "discount_pct": 25.1,
+      "location": "Rivolgersi al personale",
       "category": "Altro",
-      "badge": "",
-      "image": "images/30617949.jpg"
+      "badge": "ULTIMI PEZZI",
+      "image": "images/80486328.jpg"
     },
     {
       "artno": "40579334",
@@ -1572,6 +1548,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/40579334.jpg"
+    },
+    {
+      "artno": "30617949",
+      "name": "BORSTTÅG coprilet 150x250 grigio chiaro/a quadri",
+      "stock": 88,
+      "price1": 39.95,
+      "locprice": 29.95,
+      "discount_pct": 25.0,
+      "location": "Biancheria da letto",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/30617949.jpg"
     },
     {
       "artno": "30579358",
@@ -1610,18 +1598,6 @@
       "image": "images/10452548.jpg"
     },
     {
-      "artno": "60507379",
-      "name": "DELSJÖN miscelat effetto peltro CH",
-      "stock": 19,
-      "price1": 79.95,
-      "locprice": 59.95,
-      "discount_pct": 25.0,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/60507379.jpg"
-    },
-    {
       "artno": "40488796",
       "name": "DELSJÖN miscelat metallo nero spazzolato",
       "stock": 31,
@@ -1644,6 +1620,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/40562079.jpg"
+    },
+    {
+      "artno": "60507379",
+      "name": "DELSJÖN miscelat effetto peltro CH",
+      "stock": 20,
+      "price1": 79.95,
+      "locprice": 59.95,
+      "discount_pct": 25.0,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/60507379.jpg"
     },
     {
       "artno": "40557657",
@@ -1672,7 +1660,7 @@
     {
       "artno": "80548185",
       "name": "FEJKA N piant art/vas 23 in/es Kentia forst",
-      "stock": 18,
+      "stock": 17,
       "price1": 89.95,
       "locprice": 69.0,
       "discount_pct": 23.3,
@@ -1680,18 +1668,6 @@
       "category": "Altro",
       "badge": "",
       "image": "images/80548185.jpg"
-    },
-    {
-      "artno": "30459134",
-      "name": "ALMARÖD specchio 80 nero",
-      "stock": 25,
-      "price1": 129.0,
-      "locprice": 99.0,
-      "discount_pct": 23.3,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/30459134.jpg"
     },
     {
       "artno": "10561854",
@@ -1704,6 +1680,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/10561854.jpg"
+    },
+    {
+      "artno": "30459134",
+      "name": "ALMARÖD specchio 80 nero",
+      "stock": 25,
+      "price1": 129.0,
+      "locprice": 99.0,
+      "discount_pct": 23.3,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/30459134.jpg"
     },
     {
       "artno": "10540611",
@@ -1720,7 +1708,7 @@
     {
       "artno": "10591813",
       "name": "VAPPEBY cassa Bluet port impermeabile/blu",
-      "stock": 9,
+      "stock": 8,
       "price1": 12.95,
       "locprice": 9.95,
       "discount_pct": 23.2,
@@ -1728,6 +1716,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/10591813.jpg"
+    },
+    {
+      "artno": "40601472",
+      "name": "FEJKA N piant art/vas 12 in/es scotano",
+      "stock": 109,
+      "price1": 12.95,
+      "locprice": 9.95,
+      "discount_pct": 23.2,
+      "location": "Decorazione, candele e piante",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/40601472.jpg"
     },
     {
       "artno": "541545",
@@ -1742,21 +1742,9 @@
       "image": "images/541545.jpg"
     },
     {
-      "artno": "40601472",
-      "name": "FEJKA N piant art/vas 12 in/es scotano",
-      "stock": 110,
-      "price1": 12.95,
-      "locprice": 9.95,
-      "discount_pct": 23.2,
-      "location": "Decorazione, candele e piante",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/40601472.jpg"
-    },
-    {
       "artno": "60471002",
       "name": "SOLDRÄNKT secch refr vin 20 inox",
-      "stock": 23,
+      "stock": 21,
       "price1": 25.95,
       "locprice": 19.95,
       "discount_pct": 23.1,
@@ -1802,18 +1790,6 @@
       "image": "images/80555835.jpg"
     },
     {
-      "artno": "30460811",
-      "name": "HEMNES N cas3 108x96 grigio trattato con mordente",
-      "stock": 3,
-      "price1": 229.0,
-      "locprice": 179.0,
-      "discount_pct": 21.8,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "ULTIMI PEZZI",
-      "image": "images/30460811.jpg"
-    },
-    {
       "artno": "80424750",
       "name": "HEMNES NN cas3 108x96 marrone-nero",
       "stock": 9,
@@ -1824,6 +1800,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/80424750.jpg"
+    },
+    {
+      "artno": "30460811",
+      "name": "HEMNES N cas3 108x96 grigio trattato con mordente",
+      "stock": 3,
+      "price1": 229.0,
+      "locprice": 179.0,
+      "discount_pct": 21.8,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "ULTIMI PEZZI",
+      "image": "images/30460811.jpg"
     },
     {
       "artno": "60242100",
@@ -1888,7 +1876,7 @@
     {
       "artno": "373207",
       "name": "BLOMNING barat caffè/tè 11x7x20",
-      "stock": 145,
+      "stock": 141,
       "price1": 4.95,
       "locprice": 3.95,
       "discount_pct": 20.2,
@@ -1896,18 +1884,6 @@
       "category": "Cucine",
       "badge": "",
       "image": "images/373207.jpg"
-    },
-    {
-      "artno": "60156121",
-      "name": "HEMNES scarp 4 sc 107x22x101 bianco",
-      "stock": 2,
-      "price1": 149.0,
-      "locprice": 119.0,
-      "discount_pct": 20.1,
-      "location": "Rivolgersi al personale",
-      "category": "Altro",
-      "badge": "ULTIMI PEZZI",
-      "image": "images/60156121.jpg"
     },
     {
       "artno": "572810",
@@ -1920,6 +1896,18 @@
       "category": "Altro",
       "badge": "",
       "image": "images/572810.jpg"
+    },
+    {
+      "artno": "60156121",
+      "name": "HEMNES scarp 4 sc 107x22x101 bianco",
+      "stock": 2,
+      "price1": 149.0,
+      "locprice": 119.0,
+      "discount_pct": 20.1,
+      "location": "Rivolgersi al personale",
+      "category": "Altro",
+      "badge": "ULTIMI PEZZI",
+      "image": "images/60156121.jpg"
     },
     {
       "artno": "90547963",
@@ -1970,18 +1958,6 @@
       "image": "images/80452583.jpg"
     },
     {
-      "artno": "50454908",
-      "name": "MALM cas2 40x55 grigio trattato con mordente",
-      "stock": 5,
-      "price1": 49.95,
-      "locprice": 39.95,
-      "discount_pct": 20.0,
-      "location": "Self Service",
-      "category": "Altro",
-      "badge": "",
-      "image": "images/50454908.jpg"
-    },
-    {
       "artno": "20559172",
       "name": "BUNKEFLO lamp sosp 36 rosso/betulla",
       "stock": 10,
@@ -1994,16 +1970,16 @@
       "image": "images/20559172.jpg"
     },
     {
-      "artno": "10482512",
-      "name": "MALM cas3 80x78 grigio trattato con mordente",
-      "stock": 9,
-      "price1": 99.95,
-      "locprice": 79.95,
+      "artno": "50454908",
+      "name": "MALM cas2 40x55 grigio trattato con mordente",
+      "stock": 5,
+      "price1": 49.95,
+      "locprice": 39.95,
       "discount_pct": 20.0,
       "location": "Self Service",
       "category": "Altro",
       "badge": "",
-      "image": "images/10482512.jpg"
+      "image": "images/50454908.jpg"
     },
     {
       "artno": "50506064",
@@ -2018,9 +1994,21 @@
       "image": "images/50506064.jpg"
     },
     {
+      "artno": "10482512",
+      "name": "MALM cas3 80x78 grigio trattato con mordente",
+      "stock": 9,
+      "price1": 99.95,
+      "locprice": 79.95,
+      "discount_pct": 20.0,
+      "location": "Self Service",
+      "category": "Altro",
+      "badge": "",
+      "image": "images/10482512.jpg"
+    },
+    {
       "artno": "90347351",
       "name": "SONGESAND guardar 120x60x191 bianco",
-      "stock": 5,
+      "stock": 10,
       "price1": 249.0,
       "locprice": 199.95,
       "discount_pct": 19.7,
@@ -2088,18 +2076,6 @@
       "category": "Altro",
       "badge": "ULTIMI PEZZI",
       "image": "images/20579090.jpg"
-    },
-    {
-      "artno": "473400",
-      "name": "BENGTSBOL lamp 5 lamp nero",
-      "stock": 1,
-      "price1": 59.95,
-      "locprice": 49.95,
-      "discount_pct": 16.7,
-      "location": "Illuminazione e Smart Home",
-      "category": "Altro",
-      "badge": "ULTIMI PEZZI",
-      "image": "images/473400.jpg"
     },
     {
       "artno": "60430021",
